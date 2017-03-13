@@ -1,5 +1,8 @@
 {
-.appVersion = "939";
+.appVersion = "983";
+DisplayStrings = (
+xxxO
+);
 copyright = "Copyright © 2016 by Ben Nathan. All rights reserved.";
 customParameters = (
 {
@@ -28315,7 +28318,7 @@ unicode = 0077;
 },
 {
 glyphname = x;
-lastChange = "2017-02-12 21:41:44 +0000";
+lastChange = "2017-03-13 11:39:28 +0000";
 layers = (
 {
 anchors = (
@@ -28387,25 +28390,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"40 457 OFFCURVE",
-"42 448 OFFCURVE",
-"48 432 CURVE SMOOTH",
-"213 19 LINE SMOOTH",
-"223 -7 OFFCURVE",
-"233 -7 OFFCURVE",
-"251 1 CURVE SMOOTH",
-"267 8 OFFCURVE",
-"269 17 OFFCURVE",
-"261 37 CURVE SMOOTH",
-"95 449 LINE SMOOTH",
-"88 465 OFFCURVE",
-"81 474 OFFCURVE",
-"62 466 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
 "219 474 OFFCURVE",
 "212 465 OFFCURVE",
 "205 449 CURVE SMOOTH",
@@ -28420,6 +28404,25 @@ nodes = (
 "258 448 OFFCURVE",
 "260 457 OFFCURVE",
 "238 466 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 457 OFFCURVE",
+"42 448 OFFCURVE",
+"48 432 CURVE SMOOTH",
+"213 19 LINE SMOOTH",
+"223 -7 OFFCURVE",
+"233 -7 OFFCURVE",
+"251 1 CURVE SMOOTH",
+"267 8 OFFCURVE",
+"269 17 OFFCURVE",
+"261 37 CURVE SMOOTH",
+"95 449 LINE SMOOTH",
+"88 465 OFFCURVE",
+"81 474 OFFCURVE",
+"62 466 CURVE SMOOTH"
 );
 }
 );
@@ -88669,6 +88672,9 @@ F = {
 "@MMK_R_o" = -40;
 a = -100;
 };
+T = {
+y = -100;
+};
 "gimel-hb" = {
 "yod-hb" = -20;
 };
@@ -88680,9 +88686,6 @@ r = {
 };
 "tav-hb" = {
 "yod-hb" = -20;
-};
-T = {
-y = -100;
 };
 };
 "C221B64C-0844-4CE6-BA2A-18F986CD7755" = {
@@ -88741,6 +88744,12 @@ W = {
 "@MMK_R_e" = -55;
 e = -55;
 };
+b = {
+y = -30;
+};
+d = {
+y = 0;
+};
 "gimel-hb" = {
 "yod-hb" = -20;
 };
@@ -88752,12 +88761,6 @@ r = {
 };
 "tav-hb" = {
 "yod-hb" = -30;
-};
-b = {
-y = -30;
-};
-d = {
-y = 0;
 };
 };
 "988D29BF-96E2-481F-8769-6B283BD5795A" = {
@@ -89984,9 +89987,9 @@ t = -10;
 v = -30;
 w = -30;
 x = -20;
+y = -40;
 z = -20;
 zcaron = -20;
-y = -40;
 };
 c = {
 T = -150;
