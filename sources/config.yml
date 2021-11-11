@@ -1,0 +1,6 @@
+sources:
+  - Fredoka.glyphs
+includeSourceFixes: false
+autohintTTF: false
+buildStatic: true
+outputDir: "../fonts"
